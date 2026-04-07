@@ -21,3 +21,4 @@ A responsive Weather Application built using HTML, CSS, and JavaScript that fetc
 -Replace in your code: const apikey = "YOUR_API_KEY";
 
 ✅“A PNG image has been added for reference.”
+Screenshot: https://github.com/Kshitij4059/AtmosTrack/blob/main/AtmosTrack.png
