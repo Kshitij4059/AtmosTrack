@@ -20,5 +20,4 @@ A responsive Weather Application built using HTML, CSS, and JavaScript that fetc
 -Get your API key from https://openweathermap.org/api
 -Replace in your code: const apikey = "YOUR_API_KEY";
 
-✅“A PNG image has been added for reference-
-Screenshot: https://github.com/Kshitij4059/AtmosTrack/blob/main/AtmosTrack.png
+✅“A PNG image has been added for reference- https://github.com/Kshitij4059/AtmosTrack/blob/main/AtmosTrack.png
