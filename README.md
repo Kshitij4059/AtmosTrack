@@ -19,3 +19,5 @@ A responsive Weather Application built using HTML, CSS, and JavaScript that fetc
 🔑 API Setup:
 -Get your API key from https://openweathermap.org/api
 -Replace in your code: const apikey = "YOUR_API_KEY";
+
+✅“A PNG image has been added for reference.”
