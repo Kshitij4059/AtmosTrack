@@ -22,7 +22,7 @@ A responsive Weather Application built using HTML, CSS, and JavaScript that fetc
 
 ✅“ Screenshot has been added for reference- https://github.com/Kshitij4059/AtmosTrack/blob/main/AtmosTrack.png
 
-⭐Icons:
+✔️Icons:
 <img width="224" height="224" alt="clear" src="https://github.com/user-attachments/assets/c4dc988d-ab41-4624-bfdd-794d854ee7cb" />
 <img width="224" height="224" alt="clouds" src="https://github.com/user-attachments/assets/a7d78980-8b17-4c07-8c3d-3859d9e978c6" />
 <img width="224" height="224" alt="drizzle" src="https://github.com/user-attachments/assets/81669d09-ec1b-4394-9772-621231d9e96d" />
